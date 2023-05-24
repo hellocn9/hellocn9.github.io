@@ -40,7 +40,7 @@ author: hellocn9
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (c) 2018-{currentYear} <a href="https://hellocn9.github.io">{author}</a>"
+copyright: "Copyright (c) 2018-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
